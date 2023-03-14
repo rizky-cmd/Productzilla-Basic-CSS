@@ -1,0 +1,29 @@
+.container{
+    flex: 1;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    width: 90%;
+    margin: auto;
+}
+.flex{
+    flex: 1;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    background-color: red;
+    width: 30%;
+    height: 100px;
+    margin: 10px;
+    border: 1px 1px 1px 1px solid #1a1a1a;
+    box-shadow: 2px 2px 2px 2px #afafaf;
+    border-radius: 10px 10px 10px 10px;
+}
+.flex-satu{
+    flex: 1;
+}
+.flex-dua{
+    flex: 10;
+}
